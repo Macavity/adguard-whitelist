@@ -1,0 +1,25 @@
+! ---------------------------------------------
+! Macavity's Whitelist
+! ---------------------------------------------
+! GitHub:  https://github.com/Macavity
+! Docu: https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists
+! ---------------------------------------------
+
+! Local
+
+! Local
+
+@@||fritz.box^
+@@||fritz.nas^
+@@||lan^
+@@||local^
+@@|0.0.0.0^
+@@|127.0.0.1^
+@@|fritz.box^
+@@|fritz.nas^
+@@|fritz.repeater^
+@@|lan^
+@@|local^
+@@|localdomain^
+@@|localhost^
+@@|localhost.localdomain^
